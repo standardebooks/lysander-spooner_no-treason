@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/lysander-spooner/no-treason</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-04-30T21:08:34.009113Z</dc:date>
+		<meta property="dcterms:modified">2025-04-30T21:08:34.009113Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -35,17 +35,19 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85139986</meta>
 		<meta property="se:subject">Philosophy</meta>
-		<dc:description id="description">Spooner presents his case for natural law being superior to the United States Constitution.</dc:description>
+		<dc:description id="description">Lawyer and political philosopher Spooner presents his case for the invalidity of the United States Constitution.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/lysander-spooner"&gt;Lysander Spooner&lt;/a&gt; was a failed lawyer and political philosopher who spent his career railing against the various systems society had set up around him, including education requirements, the Post Office, slavery, and capitalism. He attained his highest fame as an abolitionist after publishing &lt;i&gt;The Unconstitutionality of Slavery&lt;/i&gt;, a book that influenced &lt;a href="https://standardebooks.org/ebooks/frederick-douglass"&gt;Frederick Douglass&lt;/a&gt;. Building on that train of thought is &lt;i&gt;No Treason&lt;/i&gt;, a series of three essays he published in 1867 arguing that treason charges levied against Southern soldiers in the Civil War are spurious, because the Constitution itself is illegitimate.&lt;/p&gt;
+			&lt;p&gt;Spooner originally planned the essays to be a six-part series, but only ever published the first, second, and sixth part. Despite their fragmentary nature, they became influential in the budding Anarchist movement.&lt;/p&gt;
+			&lt;p&gt;Whether or not Spooner’s views had much influence on mainstream thinking remains an open question. Perhaps tellingly, Spooner himself registered the copyright for these essays—a right enumerated in the very U.S. Constitution he argues is “unfit to exist.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://en.wikisource.org/wiki/No_Treason</dc:source>
 		<dc:source>https://archive.org/details/notreason03spoo</dc:source>
 		<dc:source>https://archive.org/details/notreason02spoo</dc:source>
 		<dc:source>https://archive.org/details/notreason01spoo</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">27475</meta>
+		<meta property="se:reading-ease.flesch">48.47</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/No_Treason</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/lysander-spooner_no-treason</meta>
 		<dc:creator id="author">Lysander Spooner</dc:creator>
