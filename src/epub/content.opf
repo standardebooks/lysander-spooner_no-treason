@@ -53,7 +53,7 @@
 		<dc:creator id="author">Lysander Spooner</dc:creator>
 		<meta property="file-as" refines="#author">Spooner, Lysander</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Lysander_Spooner</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n50024574</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50024574</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aui</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
@@ -61,7 +61,7 @@
 		<meta property="file-as" refines="#artist">Hansen, Constantin</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Carl Christian Constantin Hansen</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Constantin_Hansen</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/n78001203</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n78001203</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Wikisource</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Wikisource</meta>
