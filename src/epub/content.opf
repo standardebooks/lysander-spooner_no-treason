@@ -55,9 +55,9 @@
 		<meta property="file-as" refines="#author">Spooner, Lysander</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Lysander_Spooner</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50024574</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">win</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">win</meta>
 		<dc:contributor id="artist">Constantin Hansen</dc:contributor>
 		<meta property="file-as" refines="#artist">Hansen, Constantin</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Carl Christian Constantin Hansen</meta>
